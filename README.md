@@ -12,7 +12,7 @@ JavaScript para a lógica de programação e interatividade.
 Esse piano está afinado com uma biblioteca de sons SquareWave, frequencia muito usada em videogames de época 8 e 16 bits. Use o teclado do computador para tocar as notas correspondentes, ou clique direto na tela.
 
 Para acessar é só abrir esse repositório no Github Pages:
-[Jogo da Memória Emojis](https://lucasmelosketches.github.io/SquareWave-Keyboard/)
+[SquareWave Keyboard](https://lucasmelosketches.github.io/SquareWave-Keyboard/)
 
 
 
